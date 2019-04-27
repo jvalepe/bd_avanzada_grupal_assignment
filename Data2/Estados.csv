@@ -1,0 +1,7 @@
+id_estado;tipo estado
+501010;A recibir
+501020;En terminal origen
+501030;En transporte
+501040;En terminal destino
+501050;En reparto
+501060;Entregada
